@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-12-11T08:08:33.416Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>chenyuguo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2022/12/11/hello-world/"/>
+    <id>http://example.com/2022/12/11/hello-world/</id>
+    <published>2022-12-11T07:34:23.669Z</published>
+    <updated>2022-12-11T08:08:33.416Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: Hello World</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;title: Hello World&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
